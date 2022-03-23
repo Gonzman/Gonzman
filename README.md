@@ -8,6 +8,8 @@
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" /> SQL
 
+<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1"/> PHP
+
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> Linux
 
 <!---
